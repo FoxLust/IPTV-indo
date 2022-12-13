@@ -6,7 +6,7 @@ http://210.210.155.35/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="",AniPlus
 http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BeritaSatu.png/200px-BeritaSatu.png" group-title="",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/200px-TvOne_logo_2012.svg.png" group-title="",tvOne
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="",Indosiar
@@ -22,13 +22,13 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/200px-KOMPAS_TV_%282017%29.png" group-title="",Kompas TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg" group-title="",Celestial Movies
 http://210.210.155.35/dr9445/h/h14/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/200px-LogoMetroTVsince2010.svg.png" group-title="",Metro TV
-http://210.210.155.35/uq2663/h/h12/01.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/NETCHANNEL.png/200px-NETCHANNEL.png" group-title="",NET
 http://rr2.dens.tv/s/s08/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png" group-title="",ANTV
@@ -42,7 +42,7 @@ http://210.210.155.35/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="",Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="",TVRI
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="",TVRI Jawa Barat
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="",RodjaTV
