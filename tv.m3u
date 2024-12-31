@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-shift=0 m3uautoload=1
 
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="",AniPlus
 http://rr.dens.tv/h/h114/S4/mnf.m3u8
