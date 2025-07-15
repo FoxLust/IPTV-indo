@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="",AniPlus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=aniplus-hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/800px-Animax_logo.svg.png" group-title="",Animax
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/3.m33u8
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/3.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/150px-NHK_World.svg.png" group-title="",NHK World Japan
 https://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="",Dens Play
